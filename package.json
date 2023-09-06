@@ -1,0 +1,17 @@
+{
+  "name": "wah-bot",
+  "version": "1.0.0",
+  "description": "Simple discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexandr",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "discord.js": "^14.12.1",
+    "undici": "^5.23.0"
+  }
+}
