@@ -3,7 +3,7 @@
 I wouldn't suggest using this bot in big server's since ive only built it to be used for me and my friends and idk what sort of effects it would have being used by many at once.
 Im not sure but i've also heard that discord might not like the fact this bot uses danbooru since some of its content breaks TOS. However, this bot wasn't made to be used in any harmfull way so what you do with it is **your responsability**.
 
-## Commands:
+## Commands
 
     -> /randomimage Looks for an image on bandooru based on the tag / character name you give it.
     -> /ping Is a simple command to check connection to the bot.
@@ -11,7 +11,7 @@ Im not sure but i've also heard that discord might not like the fact this bot us
     -> /server Gives you some basic information about the server you're in.
     -> /user Gives you some basic information about your account.
 
-## Get started:
+## Get started
 
     To begin using this bot / running it on your own computer you must first download all the files by clicking the green "Code" button and installing the zip.
     Then once it is installed you must go to discord dev portal and create your own discord bot in order to have a token and a clientID. This can be easily done but if you arent sure here is a link to a tutorial: https://discordjs.guide/preparations/setting-up-a-bot-application.html (please make sure to give it the permissions shown in the article)
@@ -20,7 +20,7 @@ Im not sure but i've also heard that discord might not like the fact this bot us
     When you have either the powershell window open or youre using the vsc terminal you must first install all the node modules that are required to run the code. You can do that by writing "npm install" and it will automatically make a folder for them.
     Finally once you have the node modules installed and the token and clientID in the config file you can begin running the bot using the command "node index.js"
 
-## Issues:
+## Issues
 
     If the bot doesn't start you might have messed something up in the previous steps, or just check the error message.
     But if everything is set up right, you should be able to see the bot online in the server you invited it too and you can use the slash commands.
