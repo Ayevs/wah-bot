@@ -6,9 +6,13 @@ Im not sure but i've also heard that discord might not like the fact this bot us
 ## Commands
 
 -> /randomimage Looks for an image on bandooru based on the tag / character name you give it.
+
 -> /ping Is a simple command to check connection to the bot.
+
 -> /sendmsg Sends a user a message. In order for this command to work you need the userID of the person you want to send the message to, you must be in the same server as the bot and you must have permissions to recieve DM's from non-friends.
+
 -> /server Gives you some basic information about the server you're in.
+
 -> /user Gives you some basic information about your account.
 
 ## Get started
