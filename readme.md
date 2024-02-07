@@ -1,13 +1,13 @@
 ## Simple discord bot with a couple commands.
 
 I wouldn't suggest using this bot in big server's since ive only built it to be used for me and my friends and idk what sort of effects it would have being used by many at once.
-Im not sure but i've also heard that discord might not like the fact this bot uses danbooru since some of its content breaks TOS. However, this bot wasn't made to be used in any harmfull way so what you do with it is **your responsability**.
+I've also heard that discord might not like the fact this bot uses danboru since some of its content breaks TOS. However, this bot wasn't made to be used in any harmfull way so what you do with it is **your responsability**.
 
 ## Commands
 
--> /randomimage Looks for an image on bandooru based on the tag / character name you give it.<br>
+-> /randomimg Looks for an image on danboru based on the tag / character name you give it.<br>
 -> /ping Is a simple command to check connection to the bot.<br>
--> /sendmsg Sends a user a message. In order for this command to work you need the userID of the person you want to send the message to, you must be in the same server as the bot and you must have permissions to recieve DM's from non-friends.<br>
+-> /sendmsg Sends a user a message. In order for this command to work you need the userID of the person you want to send the message to, they must be in the same server as the bot and must have permissions to recieve DM's from non-friends.<br>
 -> /server Gives you some basic information about the server you're in.<br>
 -> /user Gives you some basic information about your account.
 
